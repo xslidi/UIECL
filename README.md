@@ -1,4 +1,4 @@
-# Learning Deep Representations for Photo Retouching 
+# Unsupervised Image Enhancement via Contrastive Learning
 By [Di Li](https://scholar.google.com/citations?user=r6WfS2gAAAAJ), and [Susanto Rahardja](https://scholar.google.com/citations?user=OdkA4jMAAAAJ&hl=en) 
 
 ## Introduction
